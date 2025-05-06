@@ -10,7 +10,7 @@
 
 键盘制作参考：[【何同学】我们做了个特别的键盘…](https://www.bilibili.com/video/BV1DtjAzUEb9)
 
-硬件开源：[HTXStudio单手键盘](https://oshwhub.com/htx-studio/One-Handed_Keyboard)（等待立创开源平台审核通过）
+硬件开源：[HTXStudio单手键盘](https://oshwhub.com/htx-studio/One-Handed_Keyboard)
 
 [GitHub repository](https://github.com/htx-studio/One-Handed-Keyboard)
 
